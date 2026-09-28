@@ -1,13 +1,13 @@
 <div align="center">
 
-  <h1>Hi, I'm Jan 👋</h1>
+  <h1>Hi, I'm Krzysztof 👋</h1>
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Automatic+Control+%26+Robotics+Student;Embedded+Software+%26+Robotics;C%2B%2B+%7C+Python+%7C+ROS2+%7C+Arduino+%7C+Raspberry+Pi;Member+of+INTEGRA+AGH"
     alt="Typing SVG"
   />
 
-  <br><br>
+  <br>
 
   <a href="https://www.linkedin.com/in/krzysztof-bartuzi-b5b18a421/">
     <img
@@ -24,7 +24,7 @@
   </a>
 
 </div>
-
+<br>
 
 ### Key Bullets about Me ⚡
 - **Education**🎓: Automatic Control & Robotics at AGH University of Cracow (BSc in 2028)
