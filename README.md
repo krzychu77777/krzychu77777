@@ -1,3 +1,21 @@
+<div align="center">
+  <h1>Jan Kowalski</h1>
+
+  <img src="https://demolab.com" alt="Typing Effect" lines="Automatic Control & Robotics student;Embedded Software | member of INTEGRA AGH" />
+
+  <br><br>
+
+  <a href="www.linkedin.com/in/krzysztof-bartuzi-b5b18a421" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="bartuzikrzysztof3@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+
+</div>
+
+
 ### Key Bullets about Me ⚡
 - **Education**🎓: Automatic Control & Robotics at AGH University of Cracow (BSc in 2028)
 - **Interests**🧠: mobile robotics and embedded software
