@@ -81,6 +81,10 @@ Personal home-automation project focused on safe control of a high-durability el
 - Embedded lock-control system
 - Designed with electrical safety in mind
 
+<a href="docs/Hidden_Cabinet_Lock_PL.pdf">
+  <img src="https://img.shields.io/badge/View_Project-PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="RFID Lock PDF"/>
+</a>
+
 ---
 
 ### Tech Stack 🛠️
